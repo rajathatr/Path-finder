@@ -10,4 +10,4 @@ Coordinates are zero-indexed.
 
 When the user run the program,it will ask user to input dimension of the matrix,starting coordinates,destination coordinates,Number of obstacles and coordinates of all the obstacles.If the user enter already entered coordinate,it will ask you to reenter the coordinates.
 
-![](Images/pfi2)
+![](Images/pfi2.png)
